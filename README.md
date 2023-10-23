@@ -3,6 +3,7 @@
 [![Blog](https://img.shields.io/website?label=HenriMichel.com&style=for-the-badge&url=https://henrimichel.com/)](https://henri-michel.netlify.app/)
 
 ![Henri GitHub stats](https://github-readme-stats.vercel.app/api?username=henri-miche&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henri-miche&layout=compact&theme=dracula)
 
 ### Tecnologias que eu utlizo no meu dia!
 
